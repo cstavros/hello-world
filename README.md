@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+
+Hi Github Community,
+I like web development, object-oriented programming, and learning new things.
